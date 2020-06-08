@@ -19,6 +19,6 @@ As an introduction to Wysi, we would like you to create a search page for the [i
 ### Task Bonuses
 * Live filtering
 * Great CSS
-* Ability to "Favorite" jokes to a faviourites list
+* Ability to "Favorite" jokes to a favourites list
 * [Advanced] - Leverage Liquid, GraphQL & YML to create an API endpoint to "proxy" the request. [More Info](https://documentation.platformos.com/developer-guide/notifications/creating-api-call-notification#step-1-create-api-call-notification) (Ignore step 2b and invoke directly with a [GraphQL tag](https://documentation.platformos.com/api-reference/liquid/platformos-tags#graphql)).
 * Add your own flair! Add whatever feature you think the application should have.
