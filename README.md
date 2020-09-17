@@ -15,7 +15,6 @@ When using [Siteglide](https://help.siteglide.com/en/), the three main technolog
 * Ability to clear results and search on single click.
 * Change sort order by:
   * Popularity (weighting, this will be the default option)
-  * Price (low to high) 
   * Alpahbetical (Ascending & Descending)
 * Detail view:
   * Multiple Images (Gallery)
@@ -27,4 +26,5 @@ When using [Siteglide](https://help.siteglide.com/en/), the three main technolog
 ### Task Bonuses
 * Add to basket functionality
 * View Basket
+* Fetch search results via an API endpoint
 * Add your own flair! Add whatever feature you think the application should have.
