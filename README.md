@@ -43,4 +43,10 @@ When using Siteglide, the three main technologies you will use (Aside from HTML,
 This task ensures that the new employee gains experience in **backend API development, frontend interactivity, caching strategies, and modern web development practices.**
 
 ### Hints
-[More Info](https://documentation.platformos.com/developer-guide/notifications/creating-api-call-notification#step-1-create-api-call-notification)(Ignore step 2b and invoke directly with a [GraphQL tag](https://documentation.platformos.com/api-reference/liquid/platformos-tags#graphql)).
+[Api Calls](https://documentation.platformos.com/developer-guide/notifications/creating-api-call-notification#step-1-create-api-call-notification) (Ignore step 2b and invoke directly with a [GraphQL tag](https://documentation.platformos.com/api-reference/liquid/platformos-tags#graphql))
+
+[User Session](https://documentation.platformos.com/api-reference/liquid/platformos-tags#session) (Retrieve within `{{context}}` var)
+
+[Response Headers](https://documentation.platformos.com/developer-guide/pages/response-headers) (Set `"Content-Type": "application/json"` header)
+
+[Fragment Cache](https://documentation.platformos.com/best-practices/backend-performance/fragment-cache)
