@@ -12,7 +12,7 @@ When using Siteglide, the three main technologies you will use (Aside from HTML,
 
 ## Minimum Requirements  
 
-- **Proxy API Request:** Use **Liquid, GraphQL, and YML** to create an internal API endpoint that proxies requests to the icanhazdadjoke API.  
+- **Proxy API Request:** Use **Liquid, GraphQL, and YML** to create an internal API endpoint that proxies requests to the [icanhazdadjoke](https://icanhazdadjoke.com/api) API.  
 - **Fetch and Display Jokes:** Use **JavaScript** to call the internal endpoint and display jokes dynamically.  
 - **Search Field:** Allow users to query jokes by **keyword**.  
 - **Result Customization:** Let users adjust the **number of results returned** dynamically.  
